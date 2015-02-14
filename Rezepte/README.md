@@ -1,3 +1,3 @@
 # Rezepte
 
-Write your introduction here
+Meine Rezeptsammlung

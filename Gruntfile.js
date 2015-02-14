@@ -20,7 +20,7 @@ module.exports = function (grunt) {
 
         shell: {
             dist: {
-                command: 'gitbook build ./Rezepte --output=./dist'
+                command: 'gitbook build ./Rezepte ./dist'
             },
         },
 

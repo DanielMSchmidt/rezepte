@@ -1,3 +1,4 @@
 # Mittagessen
 
-- [Gemüsepfanne](hauptgerichte/gemuesepfanne.md)
+- [Gemüsepfanne](gemuesepfanne.md)
+- [Oberginen Tomaten Auflauf](overginenTomatenAuflauf.md)
